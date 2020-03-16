@@ -1,0 +1,3 @@
+Este archivo es creado por Mariuxi
+
+para el curso de git y Github de Platzi
